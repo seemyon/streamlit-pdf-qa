@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Temporary files
+temp.pdf
+
+# Streamlit config (optional if local)
+.streamlit/secrets.toml
+
