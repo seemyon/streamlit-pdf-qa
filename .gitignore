@@ -1,6 +1,7 @@
 # Python virtual environment
 venv/
 __pycache__/
+.streamlit-llm/
 *.pyc
 
 # Environment variables
